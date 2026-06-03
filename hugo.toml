@@ -15,7 +15,6 @@ description = "Website of Gustavo Carvalho"
 avatarURL = "/images/profile.jpg"
 #dateFormat = "January 2, 2006"
 #since = 2026
-customCSS = ["css/custom.css"]
 
 colorScheme = "dark"
 hideColorSchemeToggle = true
