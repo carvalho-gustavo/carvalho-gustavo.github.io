@@ -20,22 +20,22 @@ colorScheme = "dark"
 hideColorSchemeToggle = true
 
 [[params.social]]
-name = "WhatsApp"
-icon = "fa-brands fa-whatsapp fa-2x"
-weight = 1
-url = "https://wa.me/5521975889063"
-
-[[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
-weight = 2
+weight = 1
 url = "https://www.linkedin.com/"
 
 [[params.social]]
   name = "CV"
   icon = "fa-solid fa-file-pdf fa-2x"
-  weight = 3
+  weight = 2
   url = "/files/Gustavo_Carvalho_CV_EN.pdf"
+  
+[[params.social]]
+name = "WhatsApp"
+icon = "fa-brands fa-whatsapp fa-2x"
+weight = 3
+url = "https://wa.me/5521975889063"
 
 [[menu.main]]
 name = "About"
