@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Carvalho;Gustavo;;;
+FN:Gustavo Carvalho
+TITLE:Market Strategy Director
+ORG:AXIA Energia
+
+EMAIL;TYPE=WORK:gustavo.carvalho@axia.com.br
+EMAIL;TYPE=HOME:carvalho.gustavop@gmail.com
+
+TEL;TYPE=CELL:+5521975889063
+URL;TYPE=HOME:https://carvalho-gustavo.github.io/
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/gpcarvalho
+
+END:VCARD
