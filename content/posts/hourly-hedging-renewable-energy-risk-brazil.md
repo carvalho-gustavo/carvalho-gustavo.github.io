@@ -1,13 +1,3 @@
----
-title: "Hourly Hedging: Managing Renewable Energy Risk in Brazil’s Power Market"
-date: 2026-06-03
-draft: false
-tags: ["Power Markets", "Electricity Market Design", "Renewable Energy", "Risk Management", "Forward Contracts", "Brazil"]
-categories: ["Articles"]
----
-
----
-
 title: "Hourly Hedging: Managing Renewable Energy Risk in Brazil’s Power Market"
 date: 2026-06-03
 draft: false
