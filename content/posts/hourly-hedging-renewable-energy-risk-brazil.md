@@ -105,4 +105,4 @@ For Brazil, this type of instrument could represent an important step in the mod
 
 The broader lesson is clear: as power systems become more renewable, market design must become more granular.
 
-<i class="fa-solid fa-paperclip"></i> [Download the full paper](/files/articles/hourly-forwards-renewable-risk-brazil.pdf)
+📎[Download the full paper](/files/articles/hourly-forwards-renewable-risk-brazil.pdf)
