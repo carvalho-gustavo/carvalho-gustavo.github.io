@@ -20,10 +20,10 @@ colorScheme = "dark"
 hideColorSchemeToggle = true
 
 [[params.social]]
-name = "GitHub"
-icon = "fa-brands fa-github fa-2x"
+name = "WhatsApp"
+icon = "fa-brands fa-whatsapp fa-2x"
 weight = 1
-url = "https://github.com/carvalho-gustavo/"
+url = "https://wa.me/5521975889063"
 
 [[params.social]]
 name = "LinkedIn"
