@@ -1,0 +1,42 @@
+baseURL = "https://carvalho-gustavo.github.io/"
+title = "Gustavo Carvalho"
+theme = "hugo-coder"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Gustavo Carvalho"
+description = "Professional website of Gustavo Carvalho"
+keywords = "energy, power markets, strategy, electricity, portfolio"
+info = "Market Strategy Director | Power Markets | Energy Economics"
+avatarURL = "images/profile.jpg"
+dateFormat = "January 2, 2006"
+since = 2026
+
+colorScheme = "auto"
+hideColorSchemeToggle = false
+
+[[params.social]]
+name = "GitHub"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/carvalho-gustavo/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
