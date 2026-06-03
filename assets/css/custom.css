@@ -1,3 +1,14 @@
-.posts-list p {
-  display: none;
+.content .list ul,
+.list ul,
+section.list ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.content .list ul li,
+.list ul li,
+section.list ul li {
+  margin-left: 0;
+  padding-left: 0;
 }
