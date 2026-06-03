@@ -12,7 +12,7 @@ author = "Gustavo Carvalho"
 description = "Professional website of Gustavo Carvalho"
 keywords = "energy, power markets, strategy, electricity, portfolio"
 info = "Market Strategy Director | Power Markets | Energy Economics"
-avatarURL = "images/profile.jpg"
+avatarURL = "static/images/profile.jpg"
 dateFormat = "January 2, 2006"
 since = 2026
 
