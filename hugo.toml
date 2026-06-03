@@ -35,7 +35,7 @@ url = "https://www.linkedin.com/"
   name = "CV"
   icon = "fa-solid fa-file-pdf fa-2x"
   weight = 3
-  url = "/files/Gustavo Carvalho - Curriculum Vitae [EN].pdf"
+  url = "/files/Gustavo_Carvalho_-_Curriculum_Vitae_[EN].pdf"
 
 [[menu.main]]
 name = "About"
