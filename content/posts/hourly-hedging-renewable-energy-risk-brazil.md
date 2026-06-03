@@ -108,4 +108,4 @@ The broader lesson is clear: as power systems become more renewable, market desi
 
 ## Full paper
 
-[Download the full paper](/files/articles/Artigo_IEEE_Hourly_Forwards.pdf)
+[Download the full paper](/files/articles/hourly-forwards-renewable-risk-brazil.pdf)
