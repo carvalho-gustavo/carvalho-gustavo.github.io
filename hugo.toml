@@ -9,12 +9,12 @@ pagerSize = 10
 
 [params]
 author = "Gustavo Carvalho"
-description = "Professional website of Gustavo Carvalho"
-keywords = "energy, power markets, strategy, electricity, portfolio"
-info = "Power Systems Economics | Market Design | Strategy & Innovation"
+description = "Website of Gustavo Carvalho"
+#keywords = "energy, power markets, strategy, electricity, portfolio"
+#info = "Power Systems Economics | Market Design | Strategy & Innovation"
 avatarURL = "/images/profile.jpg"
-dateFormat = "January 2, 2006"
-since = 2026
+#dateFormat = "January 2, 2006"
+#since = 2026
 
 colorScheme = "dark"
 hideColorSchemeToggle = true
