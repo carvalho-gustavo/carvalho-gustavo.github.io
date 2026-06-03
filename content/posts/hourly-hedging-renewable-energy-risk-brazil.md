@@ -114,8 +114,8 @@ Hourly forward contracts offer a promising path. They allow renewable agents to 
 
 For Brazil, this type of instrument could represent an important step in the modernization of the forward market, supporting more robust renewable integration and more sophisticated risk management practices.
 
+The broader lesson is clear: as power systems become more renewable, market design must become more granular.
+
 ## Full paper
 
 [Download the full paper](/files/articles/Artigo_IEEE_Hourly_Forwards.pdf)
-
-The broader lesson is clear: as power systems become more renewable, market design must become more granular.
