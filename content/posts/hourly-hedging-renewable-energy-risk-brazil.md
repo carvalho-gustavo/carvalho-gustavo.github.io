@@ -2,7 +2,6 @@
 title = "Hourly Hedging: Managing Renewable Energy Risk in Brazil's Power Market"
 date = 2026-06-03
 draft = false
-categories = ["Articles"]
 +++
 
 The expansion of renewable energy is reshaping power markets around the world. In Brazil, this transformation is particularly relevant because the electricity sector has historically relied on long-term forward contracts as a core mechanism to support investment, manage revenue stability, and ensure supply adequacy.
