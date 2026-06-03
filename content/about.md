@@ -4,8 +4,14 @@ date = 2026-06-03
 draft = false
 +++
 
-I am Gustavo Carvalho, a senior executive in the Brazilian power sector, focused on market strategy, power markets, structured products, commercial innovation, and energy economics.
+I am a Market Strategy Director at AXIA Energia, where I lead enterprise-wide revenue maximization initiatives by transforming structural changes in the power sector into scalable growth platforms. My work focuses on structured energy products, innovative commercial models, strategic partnerships, and market-facing initiatives that connect power market dynamics with business growth.
 
-My work combines commercial strategy, portfolio optimization, risk management, market analytics, and innovation in electricity markets.
+I have more than 15 years of executive experience in the Brazilian power sector, with deep expertise across commercialization strategy, market development, structured products, risk management, portfolio optimization, pricing, regulation, and energy market innovation. In 2025, I was recognized with the Vicente Falconi Award for outstanding performance, strategic execution, and contribution to business results.
+
+Alongside my executive career, I am a PhD Candidate in Electrical Engineering at Universidade de São Paulo (USP), with a focus on Power Systems Economics. I also hold an MSc and a BSc in Electrical Engineering from Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), with emphasis on Operations Research, an Extension Program in Risk Analysis from PUC-Rio, and an Executive MBA in Finance from Fundação Getulio Vargas (FGV), where I was awarded “Top-Ranked Student” across all cohorts.
+
+I am a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), a member of the IEEE Power & Energy Society Long Range Planning Subcommittee, and a member of the CIGRE International Working Group on Retail Electricity Market Competition.
+
+My academic and professional contributions include peer-reviewed papers published in IEEE journals and leading Brazilian energy conferences, including SNPTEE. I am also a frequent speaker and media contributor, with features in more than 20 major outlets, including Valor Econômico, Folha de São Paulo, O Globo, BBC Brasil, Agência Estado, Canal Energia, and Brasil Energia.
 
 You can also read my latest notes in the [Blog](/posts/).
