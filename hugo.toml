@@ -16,8 +16,8 @@ avatarURL = "/images/profile.jpg"
 dateFormat = "January 2, 2006"
 since = 2026
 
-colorScheme = "auto"
-hideColorSchemeToggle = false
+colorScheme = "dark"
+hideColorSchemeToggle = true
 
 [[params.social]]
 name = "GitHub"
