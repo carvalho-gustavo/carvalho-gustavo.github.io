@@ -16,7 +16,7 @@ avatarURL = "/images/profile.jpg"
 #dateFormat = "January 2, 2006"
 #since = 2026
 
-colorScheme = "dark"
+colorScheme = "light"
 hideColorSchemeToggle = true
 
 [[params.social]]
