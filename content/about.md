@@ -14,4 +14,4 @@ I am a Senior Member of the Institute of Electrical and Electronics Engineers (I
 
 My academic and professional contributions include peer-reviewed papers published in IEEE journals and leading Brazilian energy conferences, including SNPTEE. I am also a frequent speaker and media contributor, with features in more than 20 major outlets, including Valor Econômico, Folha de São Paulo, O Globo, BBC Brasil, Agência Estado, Canal Energia, and Brasil Energia.
 
-***You can read my latest articles [here](/posts/).***
+<!--You can read my latest articles [here](/posts/).-->
