@@ -48,7 +48,7 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[menu.main]]
-name = "Articles"
-weight = 2
-url = "posts/"
+#[[menu.main]]
+#name = "Articles"
+#weight = 2
+#url = "posts/"
