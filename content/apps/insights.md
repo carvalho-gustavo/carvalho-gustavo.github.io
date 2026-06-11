@@ -1,4 +1,8 @@
-+++ title = "Gerador de Insights" date = 2026-06-11 draft = false +++
++++
+title = "Gerador de Insights"
+date = 2026-06-11
+draft = false
++++
 
 <div class="app-card">
   <h2>Gerador de Insights Comerciais</h2>
