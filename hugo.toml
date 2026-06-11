@@ -51,7 +51,7 @@ url = "about/"
 [[menu.main]]
 name = "Insights"
 weight = 2
-url = "/apps/insights/"
+pageRef = "/apps/insights/"
 
 #[[menu.main]]
 #name = "Articles"
