@@ -46,7 +46,12 @@ url = "https://wa.me/5521975889063"
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+pageRef = "/about/"
+
+#[[menu.main]]
+#name = "Articles"
+#weight = 2
+#pageRef = "/posts/"
 
 [[menu.main]]
 name = "Insights"
@@ -57,8 +62,3 @@ pageRef = "/apps/insights/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-#[[menu.main]]
-#name = "Articles"
-#weight = 2
-#url = "posts/"
