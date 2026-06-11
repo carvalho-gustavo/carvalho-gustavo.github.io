@@ -51,7 +51,7 @@ url = "about/"
 [[menu.main]]
 name = "Insights"
 weight = 2
-url = "insights/"
+url = "/apps/insights/"
 
 #[[menu.main]]
 #name = "Articles"
