@@ -53,6 +53,11 @@ name = "Insights"
 weight = 2
 pageRef = "/apps/insights/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 #[[menu.main]]
 #name = "Articles"
 #weight = 2
