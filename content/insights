@@ -5,7 +5,7 @@ date: 2026-06-11
 
 <div class="app-container">
   <iframe
-    src="https://SEU-APP.vercel.app/"
+    src="https:///gerador-insights-python.vercel.app/"
     title="Gerador de Insights Comerciais"
     loading="lazy">
   </iframe>
