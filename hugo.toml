@@ -56,7 +56,7 @@ pageRef = "/about/"
 [[menu.main]]
 name = "Insights"
 weight = 2
-pageRef = "/apps/insights/"
+pageRef = "/apps/mwavg-energy-calculator/"
 
 [markup]
   [markup.goldmark]
