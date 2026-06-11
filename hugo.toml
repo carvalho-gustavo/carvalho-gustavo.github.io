@@ -51,7 +51,7 @@ url = "about/"
 [[menu.main]]
 name = "Insights"
 weight = 2
-url = "posts/"
+url = "insights/"
 
 #[[menu.main]]
 #name = "Articles"
