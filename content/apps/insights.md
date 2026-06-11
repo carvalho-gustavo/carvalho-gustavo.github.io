@@ -4,14 +4,12 @@ date = 2026-06-11
 draft = false
 +++
 
-<div class="app-card">
-  <h2>Gerador de Insights Comerciais</h2>
-  <p>Ferramenta em Python para gerar recomendações comerciais por tema.</p>
+Ferramenta em Python para gerar recomendações comerciais por tema.
 
-  <a
-    href="https:///gerador-insights-python.vercel.app/"
-    target="_blank"
-    rel="noopener noreferrer">
-    Abrir aplicativo
-  </a>
+<div style="width: 100%; height: 750px; margin-top: 24px;">
+  <iframe
+    src="https://gerador-insights-python.vercel.app/"
+    title="Gerador de Insights Comerciais"
+    style="width: 100%; height: 100%; border: 0; border-radius: 12px;">
+  </iframe>
 </div>
