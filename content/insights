@@ -1,7 +1,4 @@
----
-title: "Gerador de Insights"
-date: 2026-06-11
----
++++ title = "Gerador de Insights" date = 2026-06-11 draft = false +++
 
 <div class="app-container">
   <iframe
