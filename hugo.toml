@@ -43,20 +43,20 @@ icon = "fa-brands fa-whatsapp fa-2x"
 weight = 4
 url = "https://wa.me/5521975889063"
 
-[[menu.main]]
-name = "About"
-weight = 1
-pageRef = "/about/"
+#[[menu.main]]
+#name = "About"
+#weight = 1
+#pageRef = "/about/"
 
 #[[menu.main]]
 #name = "Articles"
 #weight = 2
 #pageRef = "/posts/"
 
-[[menu.main]]
-name = "Insights"
-weight = 2
-pageRef = "/apps/mwavg-energy-calculator/"
+#[[menu.main]]
+#name = "Insights"
+#weight = 2
+#pageRef = "/apps/mwavg-energy-calculator/"
 
 [markup]
   [markup.goldmark]
