@@ -29,7 +29,7 @@ url = "https://www.linkedin.com/in/gpcarvalho/"
   name = "CV"
   icon = "fa-solid fa-file-pdf fa-2x"
   weight = 2
-  url = "/files/Gustavo_Carvalho_CV_EN.pdf"
+  url = "/files/Gustavo_Carvalho_CV_PT.pdf"
 
 [[params.social]]
 name = "Add Contact"
