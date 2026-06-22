@@ -43,6 +43,8 @@ icon = "fa-brands fa-whatsapp fa-2x"
 weight = 4
 url = "https://wa.me/5521975889063"
 
+# as pastas abaixo ficam dentro da pasta contents, quando quiser que sejam exibidas no site. agora estão arquivadas
+
 #[[menu.main]]
 #name = "About"
 #weight = 1
